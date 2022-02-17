@@ -10,7 +10,10 @@
 [![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/KlainStom/extension-manager/latest?sort=semver&style=flat-square)](https://github.com/KlainStom/extension-manager/commits/master)
 [![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/KlainStom/extension-manager/latest/total?style=flat-square)](https://github.com/KlainStom/extension-manager/releases/latest)
 
+Extension manager is a [Minestom](https://github.com/Minestom/Minestom) extension able to download extensions and updates from GitHub.
+
 Requires Java 17.<br>
+Works well with [Microstom](https://github.com/KlainStom/microstom).
 
 ### Features
 - list installed extensions
