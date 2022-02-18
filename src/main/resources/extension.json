@@ -1,5 +1,14 @@
 {
   "entrypoint": "com.github.klainstom.${name.toLowerCase()}.ExtensionMain",
   "name": "${name}",
-  "version": "${version}"
+  "version": "${version}",
+  "meta": {
+    "github": {
+      "release": {
+        "account": "KlainStom",
+        "repo": "extension-manager",
+        "release": "v${version}"
+      }
+    }
+  }
 }
